@@ -1,0 +1,34 @@
+{
+  "destinations": {
+    "japan": {
+      "name": "Japan",
+      "image": "/manus-storage/xe74tjIEco1k_44d31a86.jpg",
+      "description": "Experience the beauty of ancient temples and modern cities"
+    },
+    "europe": {
+      "name": "Europe",
+      "image": "/manus-storage/yari8dNJRN9y_a729feaf.jpg",
+      "description": "Discover iconic landmarks and charming European culture"
+    },
+    "america": {
+      "name": "America",
+      "image": "/manus-storage/I4xl6TEJLawi_803fe6a0.jpg",
+      "description": "Explore diverse landscapes from coast to coast"
+    },
+    "thailand": {
+      "name": "Thailand",
+      "image": "/manus-storage/mNbOfjJY6lwz_91b86aba.jpg",
+      "description": "Relax on pristine tropical beaches and islands"
+    },
+    "australia": {
+      "name": "Australia",
+      "image": "/manus-storage/zvmf59DSR8CO_516a8309.jpg",
+      "description": "Explore the Great Barrier Reef and unique wildlife"
+    },
+    "caribbean": {
+      "name": "Caribbean",
+      "image": "/manus-storage/krWC5O7TxauR_b921de3f.jpg",
+      "description": "Enjoy paradise beaches and crystal-clear waters"
+    }
+  }
+}
